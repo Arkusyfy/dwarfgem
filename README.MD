@@ -1,5 +1,6 @@
 # Dwarf collecting treasures to make a living
 
-A simple two levels of a platformer game made for a university assignment.
-Game was made in Unity.
-Used models were created in Blender.
+A university project done in Unity.  
+Models used were created in Blender.  
+A simple platformer game, in which you control a dwarf.  
+Use bouncy mushrooms as trampolines, to get higher.
